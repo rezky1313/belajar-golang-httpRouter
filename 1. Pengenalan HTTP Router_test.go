@@ -1,4 +1,4 @@
-package belajar_golang_httpRouter
+package main
 
 /*
 HTTP Router
